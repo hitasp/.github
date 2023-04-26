@@ -11,7 +11,7 @@
 
 ## Repositories
  Organization repositories are named according to their service name and has related modules inside the repository. Each repository has its own README you can use as guide. 
- > *The **[infrastructure](https://github.com/hitasp/infrastructure)** repository contains all common modules. Modules that are shared between two or more services.*
+ > *The **[infrastructure](https://github.com/hitasp/infrastructure)** repository contains all common modules that are shared between two or more services.*
 
  > *The **[templates](https://github.com/hitasp/templates)** repository contains **[ABP](https://github.com/abpframework/abp)** templates and they are used by the **[ABP CLI](https://docs.abp.io/en/abp/latest/CLI)** to build new projects compatible with our structure.*
 
