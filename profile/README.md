@@ -16,4 +16,4 @@
  > *The **[templates](https://github.com/hitasp/templates)** repository contains **[ABP](https://github.com/abpframework/abp)** templates and they are used by the **[ABP CLI](https://docs.abp.io/en/abp/latest/CLI)** to build new projects compatible with our structure.*
 
 ## Want to Contribute?
- Tradegram is a community-driven project. So let's move forward together and read our [contribution guide](https://github.com/hitasp/.github/blob/master/docs/CONTRIBUTING.md).
+ Tradegram is a community-driven project. So let's move forward together and read our [contribution guide](https://github.com/hitasp/tradegram-mvp/blob/dev/docs/CONTRIBUTING.md).
